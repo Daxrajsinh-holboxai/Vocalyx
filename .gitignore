@@ -1,0 +1,9 @@
+.env
+__pycache__
+voice
+dist/
+build/
+*.egg-info/
+.venv/
+.venv
+venv/
