@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "vocalyx"
-version = "1.0.1"
+version = "1.0.2"
 description = "Real-time voice assistant with Speech-to-Text (STT), GPT, and Text-to-Speech (TTS). Run vocalyx-stt, vocalyx-tts, and vocalyx in three terminals."
 readme = "README.md"
 license = "MIT"
@@ -43,8 +43,8 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Daxrajsinh-holboxai/Vocalyx"
-Repository = "https://github.com/Daxrajsinh-holboxai/Vocalyx.git"
+Homepage = "https://github.com/Daxrajsinh/Vocalyx"
+Repository = "https://github.com/Daxrajsinh/Vocalyx.git"
 
 [project.scripts]
 vocalyx-tts = "vocalyx.tts_server:cli"
